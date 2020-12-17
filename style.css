@@ -1,0 +1,26 @@
+.sidebar {
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-left: 0px;
+    background-color: #c8d8ce;
+}
+
+.weatherInfo {
+    padding-left: 0px;
+    margin-left: 0px;
+
+}
+
+.jumbotron {
+background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid rgb(252, 248, 248);
+  background: repeating-linear-gradient(
+  45deg,
+  #f5ecc2,
+  #e7ba4f 10px,
+  #f5b728 20px
+);
+}
