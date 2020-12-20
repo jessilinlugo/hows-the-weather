@@ -1,6 +1,6 @@
 # hows-the-weather
 
-Link to my pretty, but non-functional weather app : 
+Link to my pretty, but non-functional weather app : https://jessilinlugo.github.io/hows-the-weather/ 
 
 ------------
 
